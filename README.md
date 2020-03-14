@@ -1,2 +1,2 @@
-# Pew Data
-Tidying Pew Dataset
+# Project 1
+Tidying Pew Dataset & Billboard Rank
